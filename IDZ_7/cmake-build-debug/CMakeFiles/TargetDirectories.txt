@@ -1,0 +1,3 @@
+/home/artyom/Рабочий стол/IDZ_7/cmake-build-debug/CMakeFiles/untitled8.dir
+/home/artyom/Рабочий стол/IDZ_7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/artyom/Рабочий стол/IDZ_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
